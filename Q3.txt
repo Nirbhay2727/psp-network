@@ -1,0 +1,36 @@
+The total time is equivalent to the max time of the clients
+
+n=5
+0checks out
+Time for client:0: 0.2985961437225342
+4checks out
+Time for client:4: 0.3237020969390869
+1checks out
+Time for client:1: 0.3486318588256836
+2checks out
+Time for client:2: 0.3526637554168701
+3checks out
+Time for client:3: 0.3565371036529541
+
+
+n=10
+Time for client:2: 1.065284252166748
+1checks out
+Time for client:1: 1.0692470073699951
+8checks out
+Time for client:8: 1.0684340000152588
+3checks out
+Time for client:3: 1.2941622734069824
+7checks out
+Time for client:7: 1.2949039936065674
+0checks out
+Time for client:0: 1.2974107265472412
+4checks out
+Time for client:4: 1.327733039855957
+5checks out
+Time for client:5: 1.3567359447479248
+9checks out
+Time for client:9: 1.357342004776001
+6checks out
+Time for client:6: 1.3746042251586914
+

@@ -1,0 +1,19 @@
+Avg RTT time for client:0is781935590.8529094
+9checks out
+Avg RTT time for client:9is543582778.691758
+5checks out
+Avg RTT time for client:5is691832627.3727423
+7checks out
+Avg RTT time for client:7is889499092.2360493
+4checks out
+Avg RTT time for client:4is576527189.5562055
+6checks out
+Avg RTT time for client:6is938915708.4678808
+3checks out
+Avg RTT time for client:3is477693957.09114397
+8checks out
+Avg RTT time for client:8is1037748940.8965305
+1checks out
+Avg RTT time for client:1is998215647.9578284
+2checks out
+Avg RTT time for client:2is1070693351.7251221
